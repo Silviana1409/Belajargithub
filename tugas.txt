@@ -2,3 +2,6 @@ Tugas penting
 -Membuat halaman index.html
 -Membuat halaman form.html
 -Membuat halaman about.html
+siviana
+gladys
+miranda
